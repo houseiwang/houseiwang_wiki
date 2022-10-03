@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://houseiwang.gitlab.io/engineering/google/blacklist/</loc>
+         <lastmod>2022-10-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://houseiwang.gitlab.io/engineering/python/plot/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
