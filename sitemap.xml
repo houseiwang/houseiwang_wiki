@@ -11,17 +11,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://houseiwang.gitlab.io/bussiness/docs/site_list/</loc>
+         <loc>https://houseiwang.gitlab.io/bussiness/info/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://houseiwang.gitlab.io/bussiness/docs/deeptech/info/</loc>
-         <lastmod>2022-10-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://houseiwang.gitlab.io/bussiness/info/academic/</loc>
+         <loc>https://houseiwang.gitlab.io/bussiness/site_list/</loc>
          <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
