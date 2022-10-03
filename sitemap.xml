@@ -2,12 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://houseiwang.gitlab.io/</loc>
-         <lastmod>2022-10-02</lastmod>
+         <lastmod>2022-10-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://houseiwang.gitlab.io/tsundoku/</loc>
+         <lastmod>2022-10-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://houseiwang.gitlab.io/bussiness/docs/site_list/</loc>
+         <lastmod>2022-10-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://houseiwang.gitlab.io/bussiness/docs/deeptech/info/</loc>
+         <lastmod>2022-10-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://houseiwang.gitlab.io/bussiness/info/academic/</loc>
+         <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://houseiwang.gitlab.io/engineering/python/plot/</loc>
-         <lastmod>2022-10-02</lastmod>
+         <lastmod>2022-10-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
